@@ -82,6 +82,9 @@ We believe in setting ambitious yet achievable goals — grounded in real work a
 
 ## 📅 2025 Roadmap
 
+![image](https://github.com/user-attachments/assets/e9a806f1-0474-44b2-a1f1-8d6b3f5c8de6)
+
+
 ### ✅ Q2 2025 – *Foundation First*
 - 🏗 Complete development of 4 core ERP modules: **HR**, **Student Management**, **Academics**, **Finance**
 - 🎨 Ensure full UI/UX alignment across web and mobile
